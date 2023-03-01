@@ -1,10 +1,7 @@
 
     {
       "imgsrc": "https://www.hostoplus.com/assets/front/img/1609228636426307009.png",
-      "category": "Action and adventure",
-      "name": "Un hébergement pour chaque besoin.",
-      "type": "action",
-      "time": "137 minute",
+      "tittle": "Un hébergement pour chaque besoin.",
       "plot": "Aujourd’hui, un site web doit être accessible 24h/24! C’est pour cette raison qu’un hébergement web performant est essentiel. Notre équipe est prête à vous accompagner quant au choix de la formule d’hébergement appropriée.Notre offre déborde de fonctionnalités. Elle est complètement prête à l'usage avec de multiples outils pratiques, de logiciels et de ressources pour vous faciliter la mise en ligne de votre projet.",
       "bannleft": "https://raw.githubusercontent.com/ic4rusfly/code-js/main/spl.png",
       "bannright":"https://raw.githubusercontent.com/ic4rusfly/code-js/main/splashsc.png"
